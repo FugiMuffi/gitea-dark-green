@@ -1,6 +1,8 @@
 # gitea-dark-green
 Based on Organizr Dark from [GilbN/theme.park](https://github.com/GilbN/theme.park), with colors from the included arc-green theme.
 
+![Screenshot](screenshot.png)
+
 Place `public/css/theme-dark-green.css` in your gitea folder (Docker: $GITEA_CUSTOM). It should look like this:
 ```
 +--- conf
